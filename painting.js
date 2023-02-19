@@ -3,7 +3,7 @@
 let colors = ["#D4D7DC", "#0C76DB", "#FFEB3B", "#F13E57"];
 
 function setup() {
-	createCanvas(1200, 800);
+	createCanvas(960, 600);
 	//background("#f5f7fa");
 	background("#EEEEEE");
 	angleMode(DEGREES);
