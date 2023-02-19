@@ -1,9 +1,9 @@
 //Based code credited to https://openprocessing.org/user/210990?view=sketches&o=48
 
-let colors = ["#D4D7DC", "#0C76DB", "#FFEB3B", "#F13E57","#3E4FF1"];
+let colors = ["#D4D7DC", "#0C76DB", "#FFEB3B", "#F13E57","#3E4FF1","#5f545"];
 
 function setup() {
-	createCanvas(960, 600);
+	createCanvas(1200, 600);
 	//background("#f5f7fa");
 	background("#EEEEEE");
 	angleMode(DEGREES);
